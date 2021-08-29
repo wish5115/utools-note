@@ -14,7 +14,7 @@
     {
       "code": "noteplus",
       "explain": "新建笔记",
-      "cmds": ["noteplus", "笔记","记事本","便签", "计划", "快记", "简记","速记", "note", "todo"],
+      "cmds": ["noteplus", "笔记","记事本", "快记", "简记","速记", "note"],
       "icon": "dist/icon.png"
     }
   ]
