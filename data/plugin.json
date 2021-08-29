@@ -1,0 +1,21 @@
+{
+  "pluginName": "noteplus",
+  "description": "快捷笔记本(修改版)",
+  "version": "1.0.0",
+  "main": "dist/index.html",
+  "development": {
+      "main": "http://localhost:8080/"
+  },
+  "preload": "dist/preload.js",
+  "author": "Wilson",
+  "homepage": "https://wish123.cnblogs.com/",
+  "logo": "dist/icon.png",
+  "features": [
+    {
+      "code": "noteplus",
+      "explain": "新建笔记",
+      "cmds": ["noteplus", "笔记","记事本","便签", "计划", "快记", "简记","速记", "note", "todo"],
+      "icon": "dist/icon.png"
+    }
+  ]
+}
