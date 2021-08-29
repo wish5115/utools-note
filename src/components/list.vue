@@ -52,7 +52,7 @@ export default {
         if (!res.error) {
           this.list = res.reverse()
           this.list = this.list.filter((item)=>{
-            console.log(item, 99999)
+            //console.log(item, 99999)
             return item.content || item.title
           });
           // if (this.list.length) {

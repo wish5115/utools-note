@@ -93,7 +93,7 @@ export default {
             data.title = txtContent.substring(0, 15)
             data.time = new Date().getTime()
             this.title = data.title
-            if(this.$refs['editor'] && this.$refs['editor'].updateTitle) this.$refs['editor'].updateTitle(data.title)
+            //if(this.$refs['editor'] && this.$refs['editor'].updateTitle) this.$refs['editor'].updateTitle(data.title)
           }
       }
       console.log('app_save_data2', data)

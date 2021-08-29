@@ -30,7 +30,7 @@
         <a
           style="padding:0 1rem;"
           @click="open('https://github.com/wish5115/utools-note')"
-          title="地址"
+          title="Github"
         >
           <svg
             version="1.1"
