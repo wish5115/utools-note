@@ -28,8 +28,8 @@ https://wish123.cnblogs.com/
 
 ## 原作者项目地址
 
-- [项目源码](https://github.com/xkloveme/utools-note)
-- [作者博客](https://www.jixiaokang.com/)
+- [原项目源码](https://github.com/xkloveme/utools-note)
+- [原作者博客](https://www.jixiaokang.com/)
 
 ## 二次开发
 
